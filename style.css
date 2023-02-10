@@ -27,7 +27,7 @@ html,
   padding-bottom:20px;
   overflow:hidden;
 }
-table{
+.custom-table table{
   width:100%;
    background: #5D5F60;
   color: #F8F8F8;
